@@ -20,7 +20,7 @@ Resources:
     
     Properties:
     
-      Description: Lambda handler that calls SageMaker for heat disease prediction
+      Description: Lambda handler that calls SageMaker for heart disease prediction
       # Time out value to 15 seconds
       Timeout: 30
       
